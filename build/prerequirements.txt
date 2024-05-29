@@ -1,7 +1,0 @@
-#
-# For some reason if we install nose in requirements.txt
-# disqus-python will complain.
-#
-
-# required by disqus-python
-nose

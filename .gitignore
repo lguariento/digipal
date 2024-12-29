@@ -17,3 +17,7 @@ digipal_cust/django_cache/
 /digipal_project/search/unified
 /digipal_project/search/unified
 /digipal_project/search/unified
+.idea/archetype.iml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/modules.xml
+.idea/vcs.xml
